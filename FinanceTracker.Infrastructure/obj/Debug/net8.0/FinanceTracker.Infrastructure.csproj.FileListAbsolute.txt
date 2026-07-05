@@ -32,3 +32,4 @@ D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrastructure\bin\Debug\net8.
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrastructure\obj\Debug\net8.0\FinanceT.DB2F2188.Up2Date
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrastructure\obj\Debug\net8.0\FinanceTracker.Infrastructure.genruntimeconfig.cache
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrastructure\obj\Debug\net8.0\ref\FinanceTracker.Infrastructure.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrastructure\obj\Debug\net8.0\FinanceTracker.Infrastructure.sourcelink.json

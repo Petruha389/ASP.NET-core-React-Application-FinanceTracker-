@@ -356,7 +356,6 @@ D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\zh-Hant\M
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\obj\Debug\net8.0\FinanceTracker.API.RazorAssemblyInfo.cache
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\obj\Debug\net8.0\FinanceTracker.API.RazorAssemblyInfo.cs
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\BCrypt-Net-Next.dll
-D:\DotNET_Projects\WebApplication1\FinanceTracker.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -388,3 +387,4 @@ D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\System.Di
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\System.IO.Pipelines.dll
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 D:\DotNET_Projects\WebApplication1\FinanceTracker.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.API\obj\Debug\net8.0\FinanceTracker.API.sourcelink.json

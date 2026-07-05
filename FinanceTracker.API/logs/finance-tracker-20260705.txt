@@ -3501,3 +3501,14 @@ LIMIT 1
 2026-07-05 22:06:30.218 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7249/_vs/browserLink - null null
 2026-07-05 22:06:30.224 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7249/_framework/aspnetcore-browser-refresh.js - 200 13788 application/javascript; charset=utf-8 5.1042ms
 2026-07-05 22:06:30.238 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7249/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.3579ms
+2026-07-05 22:25:00.626 +02:00 [INF] Запуск приложения
+2026-07-05 22:25:00.817 +02:00 [FTL] Приложение завершилось с ошибкой
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at System.Diagnostics.DiagnosticSource.Write[T](String name, T value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\DotNET_Projects\WebApplication1\FinanceTracker.API\Program.cs:line 109

@@ -15,3 +15,4 @@ D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\F
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\refint\FinanceTracker.Application.dll
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.pdb
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\ref\FinanceTracker.Application.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.sourcelink.json

@@ -20,3 +20,4 @@ D:\DotNET_Projects\WebApplication1\FinanceTracker.Domain\obj\Debug\net8.0\Financ
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Domain\obj\Debug\net8.0\refint\FinanceTracker.Domain.dll
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Domain\obj\Debug\net8.0\FinanceTracker.Domain.pdb
 D:\DotNET_Projects\WebApplication1\FinanceTracker.Domain\obj\Debug\net8.0\ref\FinanceTracker.Domain.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Domain\obj\Debug\net8.0\FinanceTracker.Domain.sourcelink.json
