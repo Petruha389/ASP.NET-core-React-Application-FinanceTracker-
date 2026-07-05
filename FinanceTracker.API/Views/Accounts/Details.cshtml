@@ -1,0 +1,19 @@
+﻿@model FinanceTracker.Application.DTOs.Account.AccountResponseDto
+@{
+    ViewData["Title"] = "Детали счёта";
+}
+
+<h1>Детали счёта</h1>
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Название</dt>
+        <dd class="col-sm-10">@Model.Name</dd>
+        <dt class="col-sm-2">Тип</dt>
+        <dd class="col-sm-10">@Model.Type</dd>
+        <dt class="col-sm-2">Баланс</dt>
+        <dd class="col-sm-10">@Model.Balance.ToString("F2") ₽</dd>
+        <dt class="col-sm-2">Дата создания</dt>
+        <dd class="col-sm-10">@Model.CreatedAt.ToLocalTime().ToString("g")</dd>
+    </dl>
+</div>
+<a asp-action="Index" class="btn btn-secondary">Назад к списку</a>

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<FinanceTracker.Application.DTOs.Transaction.TransactionResponseDto>
+@{
+    ViewData["Title"] = "Все транзакции";
+    var users = ViewBag.Users as IEnumerable<FinanceTracker.Application.DTOs.User.UserResponseDto>;
+    var accounts = ViewBag.Accounts as IEnumerable<FinanceTracker.Application.DTOs.Account.AccountResponseDto>;
+}
+
+<h1>Все транзакции</h1>
+
+<form method="get" class="row g-3 mb-3">
+    <div class="col-md-3">
+        <label>Пользователь</label>
+        <select name="userId" class="form-select">
+            <option value="">Все</option>
+            @foreach (var u in users)
+            {
+                <option value="@u.Id">@u.Name</option>
+            }
+        </select>
+    </div>
+    <div class="col-md-3">
+        <label>Счёт</label>
+        <select name="accountId" class="form-select">
+            <option value="">Все</option>
+            @foreach (var a in accounts)
+            {
+                <option value="@a.Id">@a.Name</option>
+            }
+        </select>
+    </div>
+    <div class="col-md-2">
+        <label>С</label>
+        <input type="date" name="from" class="form-control" />
+    </div>
+    <div class="col-md-2">
+        <label>По</label>
+        <input type="date" name="to" class="form-control" />
+    </div>
+    <div class="col-md-2 d-flex align-items-end">
+        <button type="submit" class="btn btn-primary">Применить</button>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Дата</th>
+            <th>Пользователь</th>
+            <th>Счёт</th>
+            <th>Тип</th>
+            <th>Сумма</th>
+            <th>Описание</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>@t.Date.ToLocalTime()</td>
+                <td>@t.UserName</td>
+                <td>@t.AccountName</td>
+                <td>@t.Type</td>
+                <td>@t.Amount</td>
+                <td>@t.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>

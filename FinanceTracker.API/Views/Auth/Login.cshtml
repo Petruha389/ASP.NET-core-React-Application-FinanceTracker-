@@ -1,0 +1,27 @@
+﻿@model FinanceTracker.Application.DTOs.User.UserLoginDto
+@{
+    ViewData["Title"] = "Вход";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <h1>Вход</h1>
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary mt-2">Войти</button>
+        </form>
+        <div class="mt-2">
+            <a asp-action="Register">Нет аккаунта? Зарегистрируйтесь</a>
+        </div>
+    </div>
+</div>

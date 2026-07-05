@@ -1,0 +1,30 @@
+﻿@model IEnumerable<FinanceTracker.Application.DTOs.User.UserResponseDto>
+@{
+    ViewData["Title"] = "Все пользователи";
+}
+
+<h1>Все пользователи</h1>
+<a asp-action="CreateUser" class="btn btn-success mb-3">Создать пользователя</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr><th>Имя</th><th>Email</th><th>Роль</th><th>Действия</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Name</td>
+                <td>@u.Email</td>
+                <td>@u.Role</td>
+                <td>
+                    <a asp-action="EditUser" asp-route-id="@u.Id" class="btn btn-sm btn-primary">Изменить</a>
+                    <form method="post" asp-action="DeleteUser" asp-route-id="@u.Id" class="d-inline" onsubmit="return confirm('Удалить?')">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-sm btn-danger">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

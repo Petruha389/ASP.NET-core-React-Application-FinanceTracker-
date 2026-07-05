@@ -1,0 +1,31 @@
+﻿@model FinanceTracker.Application.DTOs.Transaction.TransactionResponseDto
+
+@{
+    ViewData["Title"] = "Детали транзакции";
+}
+
+<h1>Детали транзакции</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Date)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Date)</dd>
+
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Type)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Type)</dd>
+
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Amount)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Amount)</dd>
+
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Description)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Description)</dd>
+
+        <dt class="col-sm-3">Счёт</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.AccountName)</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Изменить</a>
+    <a asp-action="Index" class="btn btn-secondary">Назад к списку</a>
+</div>

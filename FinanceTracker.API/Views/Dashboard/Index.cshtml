@@ -1,0 +1,70 @@
+﻿@using System.Security.Claims
+@{
+    ViewData["Title"] = "Дашборд";
+    var totalBalance = ViewBag.TotalBalance ?? 0;
+    var accountCount = ViewBag.AccountCount ?? 0;
+    var transactions = ViewBag.RecentTransactions as IEnumerable<FinanceTracker.Application.DTOs.Transaction.TransactionResponseDto>;
+}
+
+<h1>Добро пожаловать, @User.Identity.Name!</h1>
+
+<div class="row mt-4">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Общий баланс</h5>
+                <p class="card-text display-6">@totalBalance.ToString("F2") ₽</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Количество счетов</h5>
+                <p class="card-text display-6">@accountCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-info mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Роль</h5>
+                <p class="card-text display-6">@User.FindFirstValue(ClaimTypes.Role)</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (transactions != null && transactions.Any())
+{
+    <h3>Последние транзакции</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Дата</th>
+                <th>Счёт</th>
+                <th>Тип</th>
+                <th>Сумма</th>
+                <th>Описание</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var t in transactions)
+            {
+                <tr>
+                    <td>@t.Date.ToLocalTime().ToString("g")</td>
+                    <td>@t.AccountName</td>
+                    <td>@t.Type</td>
+                    <td class="@(t.Type.ToString() == "Income" ? "text-success" : "text-danger")">
+                        @(t.Type.ToString() == "Income" ? "+" : "-") @t.Amount.ToString("F2") ₽
+                    </td>
+                    <td>@t.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="text-muted">Нет транзакций</p>
+}

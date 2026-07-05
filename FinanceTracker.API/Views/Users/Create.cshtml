@@ -1,0 +1,64 @@
+﻿@model FinanceTracker.Application.DTOs.User.UserCreateDto
+
+@{
+    ViewData["Title"] = "Создание пользователя";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h2 class="mb-0">
+                        <i class="bi bi-person-plus-fill me-2"></i> Создание нового пользователя
+                    </h2>
+                </div>
+                <div class="card-body">
+                    <form method="post" asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                        <!-- Поле "Имя" -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Name" class="form-label fw-semibold">
+                                <i class="bi bi-person-fill me-1"></i> Имя <span class="text-danger">*</span>
+                            </label>
+                            <input asp-for="Name" class="form-control" placeholder="Введите имя пользователя" />
+                            <span asp-validation-for="Name" class="text-danger small"></span>
+                            <div class="form-text">Имя должно быть уникальным и содержать только буквы, цифры или подчёркивания.</div>
+                        </div>
+
+                        <!-- Поле "Email" -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Email" class="form-label fw-semibold">
+                                <i class="bi bi-envelope-fill me-1"></i> Электронная почта <span class="text-danger">*</span>
+                            </label>
+                            <input asp-for="Email" class="form-control" placeholder="example@mail.ru" type="email" />
+                            <span asp-validation-for="Email" class="text-danger small"></span>
+                            <div class="form-text">На этот адрес будут приходить уведомления.</div>
+                        </div>
+
+                        <!-- Поле "Пароль" -->
+                        <div class="form-group mb-4">
+                            <label asp-for="Password" class="form-label fw-semibold">
+                                <i class="bi bi-key-fill me-1"></i> Пароль <span class="text-danger">*</span>
+                            </label>
+                            <input asp-for="Password" class="form-control" placeholder="Минимум 6 символов" type="password" />
+                            <span asp-validation-for="Password" class="text-danger small"></span>
+                            <div class="form-text">Пароль должен содержать не менее 6 символов, включая буквы и цифры.</div>
+                        </div>
+
+                        <!-- Кнопки -->
+                        <div class="d-flex gap-2">
+                            <button type="submit" class="btn btn-success">
+                                <i class="bi bi-check-circle-fill me-1"></i> Создать
+                            </button>
+                            <a asp-action="Index" class="btn btn-outline-secondary">
+                                <i class="bi bi-arrow-left-circle me-1"></i> Назад к списку
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\bin\Debug\net8.0\FinanceTracker.Infrustructure.deps.json
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\bin\Debug\net8.0\FinanceTracker.Infrustructure.runtimeconfig.json
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\bin\Debug\net8.0\FinanceTracker.Infrustructure.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\bin\Debug\net8.0\FinanceTracker.Infrustructure.pdb
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\bin\Debug\net8.0\FinanceTracker.Domain.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\bin\Debug\net8.0\FinanceTracker.Domain.pdb
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.csproj.AssemblyReference.cache
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.AssemblyInfoInputs.cache
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.AssemblyInfo.cs
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.csproj.CoreCompileInputs.cache
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceT.87FEF25C.Up2Date
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\refint\FinanceTracker.Infrustructure.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.pdb
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\FinanceTracker.Infrustructure.genruntimeconfig.cache
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Infrrstructure\obj\Debug\net8.0\ref\FinanceTracker.Infrustructure.dll

@@ -1,0 +1,22 @@
+﻿@model FinanceTracker.Application.DTOs.Account.AccountOperationDto
+@{
+    ViewData["Title"] = "Снятие со счёта";
+    var accountName = ViewBag.AccountName as string;
+}
+
+<h1>Снятие со счёта: @accountName</h1>
+<form method="post" asp-route-id="@ViewBag.AccountId">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Amount"></label>
+        <input asp-for="Amount" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Amount" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-warning">Снять</button>
+    <a asp-action="Index" class="btn btn-secondary">Отмена</a>
+</form>

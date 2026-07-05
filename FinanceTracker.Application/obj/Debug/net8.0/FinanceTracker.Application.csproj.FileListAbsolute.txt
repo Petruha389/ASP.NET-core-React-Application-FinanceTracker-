@@ -1,0 +1,17 @@
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\bin\Debug\net8.0\FinanceTracker.Application.deps.json
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\bin\Debug\net8.0\FinanceTracker.Application.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\bin\Debug\net8.0\FinanceTracker.Application.pdb
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\bin\Debug\net8.0\FinanceTracker.Domain.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\bin\Debug\net8.0\FinanceTracker.Infrastructure.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\bin\Debug\net8.0\FinanceTracker.Domain.pdb
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\bin\Debug\net8.0\FinanceTracker.Infrastructure.pdb
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.csproj.AssemblyReference.cache
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.AssemblyInfoInputs.cache
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.AssemblyInfo.cs
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.csproj.CoreCompileInputs.cache
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceT.00C3F739.Up2Date
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\refint\FinanceTracker.Application.dll
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\FinanceTracker.Application.pdb
+D:\DotNET_Projects\WebApplication1\FinanceTracker.Application\obj\Debug\net8.0\ref\FinanceTracker.Application.dll

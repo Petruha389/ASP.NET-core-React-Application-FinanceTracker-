@@ -1,0 +1,62 @@
+# .NET
+**/bin/
+**/obj/
+**/out/
+**/publish/
+*.user
+*.suo
+*.cache
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.sln.ide
+*.db
+*.db-shm
+*.db-wal
+
+# Node.js / React
+**/node_modules/
+**/dist/
+**/.vite/
+**/build/
+**/coverage/
+.env
+.env.local
+.env.*.local
+
+# Visual Studio
+.vs/
+.vscode/
+**/wwwroot/lib/
+**/wwwroot/css/
+**/wwwroot/js/
+
+# Logs
+**/logs/
+*.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+**/packages/
+*.nupkg
+
+# Entity Framework
+**/Migrations/*.Designer.cs
+**/Migrations/*.cs (опционально, если хотите хранить миграции)
+
+# OS junk
+Thumbs.db
+.DS_Store

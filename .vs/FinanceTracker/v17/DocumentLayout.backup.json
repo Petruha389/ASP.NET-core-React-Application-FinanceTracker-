@@ -1,0 +1,851 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNET_Projects\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\users\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\users\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\accounts\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\accounts\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\accounts\\withdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\accounts\\withdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\admin\\transactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\admin\\transactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\dtos\\users\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\dtos\\users\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\dtos\\accounts\\accountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\dtos\\accounts\\accountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\transactionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\transactionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\admin\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\admin\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\dtos\\users\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\dtos\\users\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\dtos\\users\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\dtos\\users\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\dtos\\transactions\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\dtos\\transactions\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.api\\controllers\\accountsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D11A79-723F-4838-AAA5-8E8E653BA4E5}|FinanceTracker.API\\FinanceTracker.API.csproj|solutionrelative:financetracker.api\\controllers\\accountsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0104D391-66AA-46D3-979B-75EA4F15936E}|FinanceTracker.Infrastructure\\FinanceTracker.Infrastructure.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.infrastructure\\data\\financetrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0104D391-66AA-46D3-979B-75EA4F15936E}|FinanceTracker.Infrastructure\\FinanceTracker.Infrastructure.csproj|solutionrelative:financetracker.infrastructure\\data\\financetrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|d:\\dotnet_projects\\webapplication1\\financetracker.application\\dtos\\accounts\\accountoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA2B297-717B-40BE-9C00-AF84F5E4CF46}|FinanceTracker.Application\\FinanceTracker.Application.csproj|solutionrelative:financetracker.application\\dtos\\accounts\\accountoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Users\\ChangePassword.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\ChangePassword.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Users\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T19:31:54.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transactions.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\Transactions.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Admin\\Transactions.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\Transactions.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Admin\\Transactions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T12:10:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T12:10:41.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:50:16.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Auth\\AccessDenied.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Auth\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:30:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Withdraw.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Withdraw.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Accounts\\Withdraw.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Withdraw.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Accounts\\Withdraw.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:56:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Accounts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:55:18.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Users\\EditProfile.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\EditProfile.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Users\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T11:58:54.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T19:59:30.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T20:00:56.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:35:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deposit.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Deposit.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Accounts\\Deposit.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Deposit.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Accounts\\Deposit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T12:01:20.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Users\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\DTOs\\Users\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Users\\ChangePasswordDto.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\DTOs\\Users\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:12:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Program.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Program.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T14:55:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:49:23.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:02:03.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:13:51.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv10AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:57:15.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:13:17.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T12:03:00.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:55:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:55:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:55:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:55:46.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\Services\\TransactionService.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswMgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:31:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:18:54.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:30:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:30:36.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAmwNwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:00:38.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:44:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:30:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthApiController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AuthApiController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\AuthApiController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AuthApiController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\AuthApiController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:28:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\Interfaces\\IAccountService.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:07:24.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T18:22:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T12:04:32.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountCreateDto.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Accounts\\AccountCreateDto.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\DTOs\\Accounts\\AccountCreateDto.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Accounts\\AccountCreateDto.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\DTOs\\Accounts\\AccountCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:35:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAYwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:30:04.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UsersApiController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\UsersApiController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\UsersApiController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\UsersApiController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\UsersApiController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:30:13.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:19:05.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Users\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\DTOs\\Users\\UserCreateDto.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Users\\UserCreateDto.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\DTOs\\Users\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:05:26.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransactionsApiController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\TransactionsApiController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\TransactionsApiController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\TransactionsApiController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\TransactionsApiController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwH8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:30:17.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Users\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\DTOs\\Users\\UserUpdateDto.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Users\\UserUpdateDto.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\DTOs\\Users\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T12:08:24.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Accounts.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\Accounts.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Admin\\Accounts.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\Accounts.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Admin\\Accounts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T12:09:42.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Views\\Admin\\CreateUser.cshtml",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeToolTip": "FinanceTracker.API\\Views\\Admin\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T12:04:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TransactionResponseDto.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Transactions\\TransactionResponseDto.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\DTOs\\Transactions\\TransactionResponseDto.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Transactions\\TransactionResponseDto.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\DTOs\\Transactions\\TransactionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:32:44.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FinanceTrackerDbContext.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Infrastructure\\Data\\FinanceTrackerDbContext.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Infrastructure\\Data\\FinanceTrackerDbContext.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Infrastructure\\Data\\FinanceTrackerDbContext.cs",
+              "RelativeToolTip": "FinanceTracker.Infrastructure\\Data\\FinanceTrackerDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T20:37:56.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AccountOperationDto.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Accounts\\AccountOperationDto.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\DTOs\\Accounts\\AccountOperationDto.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\DTOs\\Accounts\\AccountOperationDto.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\DTOs\\Accounts\\AccountOperationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T15:01:05.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AccountsApiController.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AccountsApiController.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.API\\Controllers\\AccountsApiController.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.API\\Controllers\\AccountsApiController.cs",
+              "RelativeToolTip": "FinanceTracker.API\\Controllers\\AccountsApiController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T14:56:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "FinanceTracker.Application\\Services\\AccountService.cs",
+              "ToolTip": "D:\\DotNET_Projects\\WebApplication1\\FinanceTracker.Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "FinanceTracker.Application\\Services\\AccountService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwKUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:38:05.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

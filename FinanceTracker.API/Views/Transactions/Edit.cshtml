@@ -1,0 +1,27 @@
+﻿@model FinanceTracker.Application.DTOs.Transaction.TransactionUpdateDto
+
+@{
+    ViewData["Title"] = "Редактировать транзакцию";
+}
+
+<h1>Редактировать транзакцию</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post" asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Сохранить" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Отмена</a>
+            </div>
+        </form>
+    </div>
+</div>
